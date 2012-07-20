@@ -1,0 +1,10 @@
+
+	Bucium - TODO list
+
+[maj] add user interface, featuring:
+	* oscilloscope
+	* fft graph
+	* atom parameter editor
+[min] rename atom.main() to atom.render()
+[min] clean up code
+[min] add comments
