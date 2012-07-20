@@ -1,8 +1,9 @@
 
 	bucium
-	a sound synthesis experiment enviornment
+	a sound synthesis sandbox
 	http://github.com/deveah/bucium
 	--
 
-	yes, it's awesome.
+	Building requires PortAudio, Lua and libsndfile.
+	After building, just do ./bucium generators/square.lua filters/wobbler.lua
 
