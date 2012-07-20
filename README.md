@@ -10,5 +10,5 @@ which every generator, filter or effect is a Lua file.
 ### Building
 Building requires PortAudio, Lua and libsndfile development headers. After
 building, you can do
-	$ ./bucium generators/square.lua filters/wobbler.lua
+	`$ ./bucium generators/square.lua filters/wobbler.lua`
 for a quick demo.
