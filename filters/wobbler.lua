@@ -1,8 +1,8 @@
 atom = {}
 
-atom.name = "lp1pole"
+atom.name = "wobbler"
 atom.author = "default package"
-atom.description = "one pole low pass filter"
+atom.description = "one pole wobbler"
 
 function atom.init()
 	atom.power = 0.9

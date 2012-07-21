@@ -14,7 +14,7 @@
 #define SAMPLE_RATE 44100
 #define BUFFER_SIZE 512
 #define AUDIO_CHANNELS 1
-#define RENDER_FREQ 110
+#define RENDER_FREQ 440
 
 #define MAIN_LUA_FILE "bucium.lua"
 #define OUTPUT_FILE "output.wav"
